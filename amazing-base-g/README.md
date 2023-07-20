@@ -1,0 +1,1 @@
+<img src="screenshot-result.png">
